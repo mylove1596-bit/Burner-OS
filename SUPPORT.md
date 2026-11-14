@@ -86,6 +86,8 @@ If something is broken, wrong, or unreadable, please open an issue with:
 
 <https://github.com/mylove1596-bit/Burner-OS/issues>
 
+You can also write to [mylove1596@gmail.com](mailto:mylove1596@gmail.com).
+
 ## Privacy
 
 Burner: Cold Case OS collects no data. The full policy is on this page:

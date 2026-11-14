@@ -84,4 +84,6 @@ Questions about this policy can be raised as an issue on the project's public re
 
 <https://github.com/mylove1596-bit/Burner-OS/issues>
 
+or sent directly to [mylove1596@gmail.com](mailto:mylove1596@gmail.com).
+
 Published by an independent developer. Not affiliated with Apple, Inc.

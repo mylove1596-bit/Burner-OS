@@ -24,13 +24,15 @@ with the sibling `Crowned` repository.
 
 ## Before publishing
 
-- [x] Contact address unified to `mylove1596@gamail.com` (support / legal / privacy all point to it).
+- [x] Contact address unified to `mylove1596@gmail.com` (support / legal / privacy all point to it).
 - [x] "Last updated" date bumped on the pages that changed (→ 14 November 2026).
 - [x] Copy matches the app's actual behaviour: Case #01 is free and unlimited, the other ten
       cases are locked, and the free tier allows 1 hint / 1 warrant / 3 PIN guesses per case.
-- [ ] Replace the placeholder App Store link in `index.html` (`https://apps.apple.com/`) with the
-      real listing URL once the app is approved.
+- [x] App Store link in `index.html` points at the real listing
+      (`https://apps.apple.com/app/id6834670938`); it resolves once the app is live.
 
 ## Contact
+
+Questions: [mylove1596@gmail.com](mailto:mylove1596@gmail.com)
 
 Published by an independent developer. Not affiliated with Apple, Inc.
