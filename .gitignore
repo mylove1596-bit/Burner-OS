@@ -1,0 +1,12 @@
+# 这个公开仓库只存放审核与用户需要的公开页面（PRIVACY.md / SUPPORT.md）。
+#
+# App 的完整源代码保留在开发者本地，不进入公开仓库。
+# 本地代码的历史备份在仓库外的 bundle 文件里。
+
+/*
+!.gitignore
+!PRIVACY.md
+!SUPPORT.md
+
+# macOS
+.DS_Store
